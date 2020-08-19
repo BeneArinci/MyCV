@@ -8,9 +8,15 @@ I was able to get into Makers, one of the best software development bootcamps in
 Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to make use of all of them. Stronger together is my motto! 🙌
 
 
-## Skills
+## Tech Skills
 
-#### Ruby
+• ***Languages*** | JavaScript | Ruby | HTML | CSS | SQL<br>
+• ***Testing*** | Jest | Jasmine | Capybara | RSpec<br>
+• ***Frameworks & Environments*** | React | NodeJS | JQuery | Express | WebPack | Rails<br>
+• ***CI & CD*** | TravisCI | Heroku | Netlify<br>
+• ***Databases*** | PostgreSQL<br>
+
+#### Javascript and Ruby
 - 2 months experience (self learning)
 - Successfully completed several projects during the Makers pre-course (all available in my mastery-quizzes, RubyPractice and student-directory repositories on Github)
 - Reached the rank 5kyu on Codewars
