@@ -1,4 +1,4 @@
-## Benedetta Arinci
+# Benedetta Arinci
 
 I am an ordinary woman with an extraordinary passion for people. Always eager to learn and intrigued by finding the best solution to problems.
 Since I moved to London, 4 years ago, I have been working as a recruiter. I built my career from scratch, starting from zero experience and a basic level of English. I am so proud of it that I wanted to do it again 💪<br>
@@ -8,7 +8,7 @@ I was able to get into Makers, one of the best software development bootcamps in
 Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to make use of all of them. Stronger together is my motto! 🙌
 
 
-## Tech Skills
+### Tech Skills
 
 • ***Languages*** | JavaScript | Ruby | HTML | CSS | SQL<br>
 • ***Testing*** | Jest | Jasmine | Capybara | RSpec<br>
@@ -31,7 +31,6 @@ Along with my recently built tech skills, I bring with me a solid set of soft sk
 - Active listening
 - Empathy
 - Stakeholder management
-
 
 ## Education
 
