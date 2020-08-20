@@ -8,7 +8,7 @@ I was able to get into Makers, one of the best software development bootcamps in
 Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to make use of all of them. Stronger together is my motto! 🙌
 
 
-### Tech Skills
+## Tech Skills
 
 • ***Languages*** | JavaScript | Ruby | HTML | CSS | SQL<br>
 • ***Testing*** | Jest | Jasmine | Capybara | RSpec<br>
@@ -16,14 +16,9 @@ Along with my recently built tech skills, I bring with me a solid set of soft sk
 • ***CI & CD*** | TravisCI | Heroku | Netlify<br>
 • ***Databases*** | PostgreSQL<br>
 
-#### Javascript and Ruby
-- 2 months experience (self learning)
-- Successfully completed several projects during the Makers pre-course (all available in my mastery-quizzes, RubyPractice and student-directory repositories on Github)
-- Reached the rank 5kyu on Codewars
+## Soft Skills
 
-#### Command-line
-- 2 months experience (Makers pre-course)
-- confident in using the needed commands for coding purposes
+
 
 #### Interpersonal Skills
 - Relationship-Team building
@@ -34,21 +29,28 @@ Along with my recently built tech skills, I bring with me a solid set of soft sk
 
 ## Education
 
-#### Makers Academy (May 2020 - Ongoing)
-(#I leave them here because I'll get there eventually!! )
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (May 2020 - July 2020)
+What I learnt during my experience at Makers (non-exhaustive and not in order of importance):<br>
+• *Problem solving*, breaking down problems into smaller parts<br>
+• Coding following *S.O.L.I.D.*, *TDD*, *DDD* principles<br>
+• *Refactoring* my code<br>
+• Getting visibility of the code and following the main *debugging* techniques<br>
+• *Learning a new language by translation* (JS from my Ruby knowledge)<br>
+• Using version control systems (*Git* and *Github*)<br>
+• Taking ownership of my *learning process*<br>
+• *Pair programming* using the driver/navigator style<br>
+• Collaborating with other developers in *group projects*<br>
+• Agile team working<br>
+• Giving and receiving meaningful and respectful *feedback*<br>
 
 #### Executive Data Science Specialization, Coursera (2018)
 
-#### MSc in Organizations and Human Resources Management, Florence University (September 2008 - July 2012)
+#### MSc in Organizations and Human Resources Management, Florence University (September 2012 - April 2015)
 
-#### BSc in Business Administration, Florence University (September 2012 - April 2015)
+#### BSc in Business Administration, Florence University (September 2008 - July 2012)
 
 
-## Experience
+## Working Experience
 
 **Revolut** (July 2019 - February 2020)    
 *Recruiter*  
