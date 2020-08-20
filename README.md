@@ -2,10 +2,10 @@
 
 I am an ordinary woman with an extraordinary passion for people. Always eager to learn and intrigued by finding the best solution to problems.
 Since I moved to London, 4 years ago, I have been working as a recruiter. I built my career from scratch, starting from zero experience and a basic level of English. I am so proud of it that I wanted to do it again 💪<br>
-Why tech? In any other job, sooner or later, you'll stop learning. In tech you are always be able to keep on growing as much as you wish.
+Why tech? In any other job, sooner or later, you'll stop learning. In tech you are always able to keep on growing as much as you wish.
 From what I have experienced so far, when I am coding I always feel outside my comfort zone. The more I learn, the more I feel like I need to learn more. Finding a solution to a problem pushes me to look for new and more challenging ones to solve. This is really an exciting feeling.<br>
 I was able to get into Makers, one of the best software development bootcamps in Europe, accepting only 10% of applicants. I learnt so much during the last 4-5 months. I am now ready (and excited) to start my career as a software developer. The idea of working with a super team providing tech solution to real-life challenges thrills me 💗 <br> 
-Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to make use of all of them. Stronger together is my motto! 🙌
+Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to making use of all of them. Stronger together is my motto! 🙌
 
 
 ## Tech Skills
@@ -20,7 +20,7 @@ Along with my recently built tech skills, I bring with me a solid set of soft sk
 
 **Curiosity & Problem solving**<br>
 I’m an active learner, I like to explore new technologies and apply what I learn in my
-projects. I try to look at solutions from different points of view so to take a thought out decision. When I am in front of a challenge, I won't stop till I solve it. During the Coding Bootcamp I sharpened this specific skill applying it to software development and I demonstrated that I can do anything :)<br>
+projects. I try to look at solutions from different points of view so as to take a thought out decision. When I am in front of a challenge, I won't stop till I solve it. During the Coding Bootcamp I sharpened this specific skill applying it to software development and I demonstrated that I can do anything :)<br>
 **Communication & Listening**<br>
 I understand that clear communication is a key element in any collaborative environment. For this reason I try to be as clear as possible when I explain my ideas and I tend to ask questions and start a meaningful conversation when I feel that what I am working on is not clear enough to me. I am also an active listener and I do care of other people's opinion<br>
 **Empathy & Team Working**<br>
@@ -29,7 +29,7 @@ regularly ask for feedback from my peers so to improve in my behaviours and day 
 day job and I always do my best to help identify ways to improve the team’s ways of
 working<br>
 **Stakeholder Management**<br>
-I am always keen to understand my stakeholders' needs and to find the best solutions to satisfy them. As a recruiter I had the opportunity to work both with external (clients) and internal (hiring managers) stakeholders. The key to succeed was listening and ask for the right questions. I'll always bring knowledge this wiht me.
+I am always keen to understand my stakeholders' needs and to find the best solutions to satisfy them. As a recruiter I had the opportunity to work both with external (clients) and internal (hiring managers) stakeholders. The key to succeed was listening and ask for the right questions. I'll always bring knowledge this with me.
 
 ## Projects
 | **Project** | **Description** |
