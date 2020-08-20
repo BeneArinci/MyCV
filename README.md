@@ -31,6 +31,13 @@ working<br>
 **Stakeholder Management**<br>
 I am always keen to understand my stakeholders' needs and to find the best solutions to satisfy them. As a recruiter I had the opportunity to work both with external (clients) and internal (hiring managers) stakeholders. The key to succeed was listening and ask for the right questions. I'll always bring knowledge this wiht me.
 
+## Projects
+| **Project** | **Description** |
+| --- | --- |
+| [Bank Account](https://github.com/BeneArinci/Bank_Tech_Test)    | small client-side app developed using **JavaScript**, **Jasmine**, **ESLint**. It allows a user to create a bank account, to make deposits and withdrawals and to be able to print their bank statement in a specific format |
+| [Bowling Scorecard](https://github.com/BeneArinci/Bowling-ScoreCard)| single page interactive web app developed using **JavaScript**, **JQuery**, **Jasmine**, **HTML**, **CSS**, **Bootstrap**. It is easy to use. It allows the user to enter the points for each frame and it is constantly updating the score |
+| [CodeQuest()](https://github.com/BeneArinci/CodeQuest) | platform game for children with the aim of helping them to develop problem solving skills and, possibly, bringing them closer to programming. This was my final group project, presented during the Makers’ Demo Day on July 31 2020. The app was developed using the following tech stack: **JavaScript**, **React**, **Node.js**, **HTML5**, **CSS**, **Tachyons**, **Jest**. This app is deployed on Netlify and available online [here](https://lets-codequest.netlify.app/)|
+| [Acebook](https://github.com/BeneArinci/Acebook) | group project I worked on during the bootcamp’s week 8 and 9. The aim was to create an app similar to FaceBook. Tech stack: **Ruby on Rails**, **RSpec**, **Capybara**, **PostgreSQL**, **HTML5**, **CSS**, **Bootstrap**, **Rubocop**, **Travis**. The app was deployed on Heroku but is no longer there |
 
 ## Education
 
