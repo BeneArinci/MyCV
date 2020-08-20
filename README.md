@@ -10,22 +10,27 @@ Along with my recently built tech skills, I bring with me a solid set of soft sk
 
 ## Tech Skills
 
-• ***Languages*** | JavaScript | Ruby | HTML | CSS | SQL<br>
-• ***Testing*** | Jest | Jasmine | Capybara | RSpec<br>
-• ***Frameworks & Environments*** | React | NodeJS | JQuery | Express | WebPack | Rails<br>
-• ***CI & CD*** | TravisCI | Heroku | Netlify<br>
-• ***Databases*** | PostgreSQL<br>
+• **Languages** | JavaScript | Ruby | HTML | CSS | SQL<br>
+• **Testing** | Jest | Jasmine | Capybara | RSpec<br>
+• **Frameworks & Environments** | React | NodeJS | JQuery | Express | WebPack | Rails<br>
+• **CI & CD** | TravisCI | Heroku | Netlify<br>
+• **Databases** | PostgreSQL<br>
 
 ## Soft Skills
 
+**Curiosity & Problem solving**<br>
+I’m an active learner, I like to explore new technologies and apply what I learn in my
+projects. I try to look at solutions from different points of view so to take a thought out decision. When I am in front of a challenge, I won't stop till I solve it. During the Coding Bootcamp I sharpened this specific skill applying it to software development and I demonstrated that I can do anything :)<br>
+**Communication & Listening**<br>
+I understand that clear communication is a key element in any collaborative environment. For this reason I try to be as clear as possible when I explain my ideas and I tend to ask questions and start a meaningful conversation when I feel that what I am working on is not clear enough to me. I am also an active listener and I do care of other people's opinion<br>
+**Empathy & Team Working**<br>
+I like to contribute in having a happy team and a respectful working environment. I
+regularly ask for feedback from my peers so to improve in my behaviours and day to
+day job and I always do my best to help identify ways to improve the team’s ways of
+working<br>
+**Stakeholder Management**<br>
+I am always keen to understand my stakeholders' needs and to find the best solutions to satisfy them. As a recruiter I had the opportunity to work both with external (clients) and internal (hiring managers) stakeholders. The key to succeed was listening and ask for the right questions. I'll always bring knowledge this wiht me.
 
-
-#### Interpersonal Skills
-- Relationship-Team building
-- Mentoring (6 months experience)
-- Active listening
-- Empathy
-- Stakeholder management
 
 ## Education
 
