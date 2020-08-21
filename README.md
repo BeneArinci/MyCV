@@ -1,5 +1,6 @@
 # Benedetta Arinci
-[Tech Skills](##-tech-skills) || [Soft Skills](##-soft-skills)
+[Tech Skills](#tech-skills) || [Soft Skills](#soft-skills) || [Projects](#projects) || [Education](#education) || [Working Experience](#working-experience)<br>
+<br>
 I am an ordinary woman with an extraordinary passion for people. Always eager to learn and intrigued by finding the best solution to problems.
 Since I moved to London, 4 years ago, I have been working as a recruiter. I built my career from scratch, starting from zero experience and a basic level of English. I am so proud of it that I wanted to do it again 💪<br>
 Why tech? In any other job, sooner or later, you'll stop learning. In tech you are always able to keep on growing as much as you wish.
