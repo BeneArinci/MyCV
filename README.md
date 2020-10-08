@@ -6,7 +6,12 @@ Since I moved to London, 4 years ago, I have been working as a recruiter. I buil
 Why tech? In any other job, sooner or later, you'll stop learning. In tech, you are always able to keep on growing as much as you wish.
 From what I have experienced so far, when I am coding I always feel outside my comfort zone. The more I learn, the more I feel like I need to learn more. Finding a solution to a problem pushes me to look for new and more challenging ones to solve. This a really exciting feeling.<br>
 I was able to get into Makers, one of the best software development bootcamps in Europe, accepting only 10% of applicants. I learnt so much during the last 4-5 months. I am now ready (and excited) to start my career as a software developer. The idea of working with a super team providing tech solution to real-life challenges thrills me 💗 <br> 
-Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to making use of all of them. Stronger together is my motto! 🙌
+Along with my recently built tech skills, I bring with me a solid set of soft skills that I built during my past working experience and studies that are really valuable when it comes to work with other people and I am looking forward to making use of all of them. Stronger together is my motto! 🙌 
+<br>
+<br>
+**Current focus** --> Makers was the springboard of my tech career. During my time there I improved my problem-solving skills and I was able to work with several technologies. It didn't really matter what I used as long as it was allowing me to deal with my tasks. After I graduated, I decided to start focusing on a few main technologies because I wanted to be able to narrow down my job hunt and be ready to start working and being productive as soon as possible in my new job!<br>
+For this reason, I decided to specialise in JavaScript full-stack development, starting from React as a front-end framework.<br>
+I already developed a few projects and more will follow. Stay tuned :smile:
 
 
 ## Tech Skills
